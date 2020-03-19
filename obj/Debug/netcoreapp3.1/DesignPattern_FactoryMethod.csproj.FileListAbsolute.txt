@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.exe
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.deps.json
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.dll
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\bin\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.pdb
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\obj\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\obj\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\obj\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\obj\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.dll
+C:\Users\nguye\Documents\CodeGym\Demo\DesignPattern_FactoryMethod\obj\Debug\netcoreapp3.1\DesignPattern_FactoryMethod.pdb
